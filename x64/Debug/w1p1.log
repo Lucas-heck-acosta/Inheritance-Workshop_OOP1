@@ -1,0 +1,4 @@
+﻿  w1p1.cpp
+  LINK : C:\Users\lucas\OneDrive\Documentos\sem2\w1p1\x64\Debug\w1p1.exe not found or not built by the last incremental link; performing full link
+w1p1.obj : error LNK2005: main already defined in shoppingListApp.obj
+C:\Users\lucas\OneDrive\Documentos\sem2\w1p1\x64\Debug\w1p1.exe : fatal error LNK1169: one or more multiply defined symbols found
